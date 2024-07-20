@@ -1,6 +1,7 @@
 [![pypi-total-downloads](https://img.shields.io/pypi/dm/mangadex-downloader?label=DOWNLOADS&style=for-the-badge)](https://pypi.org/project/mangadex-downloader)
 [![python-ver](https://img.shields.io/pypi/pyversions/mangadex-downloader?style=for-the-badge)](https://pypi.org/project/mangadex-downloader)
 [![pypi-release-ver](https://img.shields.io/pypi/v/mangadex-downloader?style=for-the-badge)](https://pypi.org/project/mangadex-downloader)
+[![gaya kode: black](https://img.shields.io/badge/gaya%20kode-black-000000.svg?style=for-the-badge)](https://github.com/psf/black)
 
 # mangadex-downloader
 

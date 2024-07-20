@@ -8,4 +8,4 @@ run([
     'run.py',
     '-n',
     output_one_folder
-])
+], shell=True)

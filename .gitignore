@@ -6,3 +6,10 @@ docs/_build
 bugs.txt
 ideas.txt
 *.db
+venv
+.idea
+.github
+.git
+launch.bat
+compile_and_copy.bat
+mangadex-dl.spec
